@@ -89,3 +89,4 @@ Vagrant.configure("2") do |config|
   SHELL
   config.vm.provision "shell", inline: $script, privileged: false, name: "user"
 end
+
