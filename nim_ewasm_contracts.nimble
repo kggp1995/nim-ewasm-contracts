@@ -8,3 +8,4 @@ license       = "GNUGeneral Public License v3.0"
 # Dependencies
 
 requires "nim >= 0.18.1"
+
