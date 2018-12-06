@@ -1,6 +1,7 @@
 import macros
 
 proc getWelcomeMessage*(): string = "Hello, World!"
+
 macro exportwasm*(p: untyped): untyped =
     expectKind(p, nnkProcDef)
     result = p
