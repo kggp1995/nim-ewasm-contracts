@@ -1,6 +1,5 @@
-# nim-ewasm-contracts
+# nim-ewasm-contracts (WIP)
 Testing NIM Contracts on EWASM testnet (http://ewasm.ethereum.org:8545/)
-
 
 # Requirements:
 
