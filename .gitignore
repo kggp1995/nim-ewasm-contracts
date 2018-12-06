@@ -1,0 +1,20 @@
+# Nim
+nimcache/
+
+# Vagrant
+.vagrant/
+
+# Vim
+.*.swp
+
+# emacs
+*~
+\#*#
+.#*
+
+# Komodo
+*.komodoproject
+
+# macOS
+.DS_Store
+
